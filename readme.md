@@ -37,7 +37,7 @@
 
 <div>
 <small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
+<a href = "https://www.paypal.me/#"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
 </div>
 
 <div align="center">
@@ -84,14 +84,14 @@
 
 **Congratulations** for deciding to participate in a _30 days of Python_ programming challenge . In this challenge you will learn everything you need to be a python programmer and the whole concept of programming. In the end of the challenge you will get a _30DaysOfPython_ programming challenge certificate.
 
-If you would like to actively engage in the challenge, you may join the [30DaysOfPython challenge](https://t.me/ThirtyDaysOfPython) telegram group.  
+If you would like to actively engage in the challenge, you may join the [30DaysOfPython challenge](##) telegram group.  
 
 ## Introduction
 
 Python is a high-level programming language for general-purpose programming. It is an open source, interpreted, objected-oriented programming language. Python was created by a Dutch programmer, Guido van Rossum. The name of Python programming language was derived from a British sketch comedy series, *Month Python's Flying Circus*.  The first version was released on February 20, 1991. This 30 days of Python challenge will help you learn the latest version of Python, Python 3 step by step. The topics are broken down into 30 days, where each day contains several topics with easy-to-understand explanations, real-world examples, many hands on exercises and projects.
 
 This challenge is designed for beginners and professionals who want to learn python programming language. It may take 30 to 100 days to complete the challenge, people who actively participate on the telegram group have a high probability of completing the challenge.
-If you are a visual learner or in favor of videos, you may get started with this [Python for Absolute Beginners video](https://www.youtube.com/watch?v=11OYpBrhdyM).
+If you are a visual learner or in favor of videos, you may get started with this [Python for Absolute Beginners video](##)
 
 ## Why Python ?
 
